@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPagesMovie", "RazorPagesMovie\RazorPagesMovie.csproj", "{2B2A07E9-9701-49C6-9C85-D7FFEE3ADBAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B2A07E9-9701-49C6-9C85-D7FFEE3ADBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2A07E9-9701-49C6-9C85-D7FFEE3ADBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B2A07E9-9701-49C6-9C85-D7FFEE3ADBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B2A07E9-9701-49C6-9C85-D7FFEE3ADBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
